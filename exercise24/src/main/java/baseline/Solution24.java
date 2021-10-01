@@ -34,7 +34,7 @@ public class Solution24 {
         return in.next();
     }
 
-    private boolean isAnagram(String str1, String str2) {
+    public boolean isAnagram(String str1, String str2) {
         //check string length and each letter to determine if strings are anagrams
         int n1 = str1.length();
         int n2 = str2.length();
