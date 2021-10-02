@@ -1,0 +1,6 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷îŸ©
+<	java:S131""Add a default case to this switch.(œŒ¾ýÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(¾¡üÿÿÿÿÿ
+h
+java:S3776%"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(¬¦Ö
