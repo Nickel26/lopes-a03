@@ -10,8 +10,18 @@ public class Solution28 {
     public static void main(String[] args){
         //initialize an int to store sum
         int sum = 0;
-        //set a loop to prompt the user for 5 values that will be added into sum
+        //call addNumber function to prompt user and add sum
+        sum = addNumber();
         //display sum
+        System.out.printf("The total is %d", sum);
+    }
 
+    public static int addNumber(){
+        int sum = 0;
+        for(int i = 0; i < 5; i++){
+            System.out.print("Enter a number: ");
+            sum += in.nextInt();
+        }
+        return sum;
     }
 }
