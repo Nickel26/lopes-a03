@@ -1,0 +1,36 @@
+
+[
+java:S1659"EDeclare "lastName" and all following declarations on a separate line.(åÓÖÀ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Â ê
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ğášüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ğášüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(€™±
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÑŞ½ûÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(œºµU
+a
+java:S1659""FDeclare "lNameFlag" and all following declarations on a separate line.(§û€ãøÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(€ïåú
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(±°Ù¶şÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(Ê€ğè
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(’”•œ
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(åŸÌ¿
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(¦ïÉ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(òĞÂ™
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(ˆºöïıÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(Ç„¶¼ûÿÿÿÿ
+h
+java:S3776M"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(õÀ’Ù
+?
+java:S1197W"*Move the array designators [] to the type.(ö‘¨p
+h
+java:S1871w"MThis branch's code block is the same as the block for the branch on line 116.(÷ÉÀÿÿÿÿÿ
+i
+java:S1871"MThis branch's code block is the same as the block for the branch on line 126.(©ºæ¥ûÿÿÿÿ
+J
+java:S1066k"/Merge this if statement with the enclosing one.(ë¦½¾üÿÿÿÿ
+e	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö‘¨p
+Y
+java:S2259@"CA "NullPointerException" could be thrown; "zCode" is nullable here.(ËÈóÍ
+Y
+java:S2259G"CA "NullPointerException" could be thrown; "empID" is nullable here.(®öùÌ
