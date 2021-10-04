@@ -1,0 +1,20 @@
+
+U
+java:S1854":Remove this useless assignment to local variable "replay".(»—”Îùÿÿÿÿ
+?
+java:S1659"$Declare "replay" on a separate line.(»—”Îùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(â¯äÌ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ìá¨Èùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÊ®Ñ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Æ¯ôğ
+@
+java:S1659$"*Declare "numOfGuesses" on a separate line.(ÁÂ
+9
+java:S2119#"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(“ï¼ø
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(éˆ·–
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(Ò™ÿËıÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(Ï‰õúúÿÿÿÿ
+g
+java:S3457J"Q%n should be used in place of \n to produce the platform-specific line separator.(ñóÍ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(ñóÍ
