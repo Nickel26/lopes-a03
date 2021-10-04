@@ -1,0 +1,7 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‰üø—üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(§¤®ûÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(«µ£Ñ
+z
+java:S1488""dImmediately return this expression instead of assigning it to the temporary variable "randomNumber".(“Ù¶
